@@ -1,0 +1,202 @@
+{
+  "brand": {
+    "description": "Reliable solutions in auto parts, motorcycle parts, and hardware."
+  },
+  "hero": {
+    "title": "Reliable solutions in auto parts, motorcycle parts, and hardware.",
+    "experienceText": "years of experience distributing throughout the country"
+  },
+  "businessUnits": {
+    "autopartes": {
+      "title": "Auto Parts",
+      "description": "Vehicle spare parts: filters, oils, batteries, brakes and suspension systems from the best international brands."
+    },
+    "motopartes": {
+      "title": "Motorcycle Parts",
+      "description": "Specialized spare parts for motorcycles and two-wheeled vehicles, from engine components to accessories and safety systems."
+    },
+    "ferreteria": {
+      "title": "Hardware",
+      "description": "Tools, equipment and supplies for construction, industrial maintenance and professional projects of all scales."
+    }
+  },
+  "about": {
+    "historyTitle": "Our History",
+    "history": {
+      "title": "Our History",
+      "paragraphs": [
+        "In 1959, Carlos Walter Oechsle turned his passion for motorcycles into a dream come true: opening a small spare parts shop in Córdoba. In the early years, he personally delivered products by bicycle, fostering a closeness and personal touch that became the DNA of the company.",
+        "With effort, dedication, and a customer-centric approach, Oechsle grew and added internationally renowned brands such as FRAM, Castrol, and Molykote. Today, we have a catalog of over 16,000 items, an infrastructure of more than 4,000 m², and reach more than 2,500 clients across the country.",
+        "Our team of 85 collaborators keeps the spirit of our founder alive: trust, closeness, and a vocation for service. Currently, the second and third generations of the Oechsle family work in the company, ensuring the continuity of its values and vision.",
+        "Oechsle is part of Grupo OSAC along with Sarico, Alfaser, and Codeflex, continuing the family tradition with the same passion as in the beginning and always looking to the future."
+      ]
+    },
+    "pillars": {
+      "title": "Our Institutional Pillars",
+      "mission": {
+        "title": "Mission",
+        "text": "To be the most reliable partner for the distribution of industrial products, delivering exceptional value through quality, experience, and service."
+      },
+      "vision": {
+        "title": "Vision",
+        "text": "To lead the transformation of industrial distribution in Latin America, setting new standards of quality, innovation, and customer satisfaction."
+      },
+      "values": {
+        "title": "Values",
+        "list": "Integrity, Excellence, Innovation, Customer Focus"
+      }
+    }
+  },
+  "nav": {
+    "about": "About Us",
+    "business": "Business Units",
+    "brands": "Brands",
+    "clients": "Clients"
+  },
+  "buttons": {
+    "contact": "Contact",
+    "learnMore": "Learn More",
+    "viewAllBrands": "View All Brands",
+    "viewAllProducts": "View All Products",
+    "appClients": "Client App",
+    "chatWithUs": "Chat with Us",
+    "sendEmail": "Send Email",
+    "sendMessage": "Send Message",
+    "viewDetails": "View Details",
+    "clickToSendEmail": "Click to send an email",
+    "whereToFindUs": "Where to find us"
+  },
+  "home": {
+    "brandsTitle": "Our Featured Brands",
+    "brandsSubtitle": "We work with the best international brands to offer you products of maximum quality",
+    "latestTitle": "Latest Releases",
+    "latestSubtitle": "Discover the most recent products we've added to our catalog",
+    "newBadge": "NEW",
+    "viewDetails": "View Details",
+    "categories": {
+      "lubricants": "Lubricants",
+      "filters": "Filters",
+      "sparkPlugs": "Spark Plugs",
+      "refrigeracion": "Cooling",
+      "herramientas": "Tools"
+    }
+  },
+  "brands": {
+    "title": "Our Brands",
+    "subtitle": "We work with the best international brands and develop our own product lines",
+    "filters": {
+      "all": "All",
+      "hardware": "Hardware",
+      "automotive": "Automotive",
+      "own": "Own Brands"
+    },
+    "ownBrandsTitle": "Our Own Brands",
+    "ownBrandsDescription": "Product lines developed especially for our clients",
+    "distributedTitle": "Brands We Distribute",
+    "distributedDescription": "We represent the best international brands in the market",
+    "own": {
+      "carwo": "Complete line of auto parts and lubricants",
+      "timox": "Specialized hardware products"
+    }
+  },
+  "business": {
+    "title": "Everything your business needs...",
+    "subtitle": "Everything you need, from a single supplier. We divide our offering into three specialized product lines to make searching easier and optimize your purchase. We work with leading and proprietary brands, guaranteeing quality, availability and good margins for your business.",
+    "expertsTitle": "Distribution experts for more than six decades",
+    "expertsDescription": "Each of our business units has dedicated specialists who understand the specific needs of their sector. We offer not only quality products, but also technical advice and after-sales support.",
+    "stats": {
+      "experience": "Years of experience",
+      "brands": "Brands distributed",
+      "countries": "Countries coverage",
+      "experienceValue": "30+",
+      "brandsValue": "500+",
+      "countriesValue": "15"
+    },
+    "viewProducts": "View Products",
+    "autopartes": {
+      "features": {
+        "filters": "Oil, air and fuel filters",
+        "lubricants": "High quality oils and lubricants",
+        "batteries": "Batteries for all types of vehicles",
+        "brakes": "Complete brake systems",
+        "suspension": "Suspension components"
+      }
+    },
+    "motopartes": {
+      "features": {
+        "engine": "Engine components",
+        "electrical": "Electrical systems",
+        "safety": "Safety equipment",
+        "accessories": "Accessories and parts"
+      }
+    },
+    "ferreteria": {
+      "features": {
+        "tools": "Professional tools",
+        "equipment": "Industrial equipment",
+        "supplies": "Construction supplies",
+        "maintenance": "Maintenance products"
+      }
+    }
+  },
+  "products": {
+    "autopartes": {
+      "title": "Auto Parts",
+      "subtitle": "Find the best spare parts and components for your vehicle"
+    },
+    "motopartes": {
+      "title": "Motorcycle Parts",
+      "subtitle": "Specialized parts and accessories for motorcycles"
+    },
+    "ferreteria": {
+      "title": "Industrial Hardware",
+      "subtitle": "Professional tools and equipment for industry and construction"
+    },
+    "searchPlaceholder": "Search products...",
+    "allBrands": "All brands",
+    "allCategories": "All categories",
+    "nameAZ": "Name A-Z",
+    "showing": "Showing",
+    "of": "of",
+    "productsText": "products",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "newBadge": "NEW",
+    "offerBadge": "SALE"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We're here to help you. Contact us in the way you prefer",
+    "whatsapp": "WhatsApp",
+    "phone": "Phone",
+    "email": "Email",
+    "formTitle": "Send us a message",
+    "name": "Name",
+    "namePlaceholder": "Your full name",
+    "company": "Company",
+    "companyPlaceholder": "Your company name",
+    "emailField": "Email",
+    "emailPlaceholder": "your@email.com",
+    "phoneField": "Phone",
+    "phonePlaceholder": "Your phone number",
+    "subject": "Subject",
+    "subjectPlaceholder": "How can we help you?",
+    "message": "Message",
+    "messagePlaceholder": "Tell us more details about your inquiry...",
+    "city": "City",
+    "cityPlaceholder": "City *",
+    "province": "Province",
+    "provincePlaceholder": "Select a province"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "about": "About Us",
+    "businessUnits": "Business Units",
+    "brands": "Brands",
+    "clients": "Clients",
+    "contact": "Contact",
+    "rightsReserved": "All rights reserved",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  }
+}

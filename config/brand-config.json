@@ -1,0 +1,123 @@
+{
+  "brand": {
+    "name": "Oechsle S.A.",
+    "shortName": "OECHSLE",
+    "logo": "/oechsle.svg",
+    "favicon": "/favicon.ico",
+    "colors": {
+      "primary": "#0419a2",
+      "secondary": "#ffffff",
+      "accent": "#f3f4f6",
+      "text": "#1f2937",
+      "textLight": "#6b7280",
+      "background": "#ffffff",
+      "backgroundLight": "#f9fafb",
+      "border": "#e5e7eb",
+      "success": "#10b981",
+      "warning": "#f59e0b",
+      "error": "#ef4444"
+    }
+  },
+  "contact": {
+    "phone": "(0351) 489 0900",
+    "email": "hola@oechsle.com.ar",
+    "whatsapp": "5493515574449",
+    "address": "Av Eliseo Canton 1870\nCordoba, Cordoba.",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3404.5!2d-64.2!3d-31.4!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a2b2c3d4e5f6%3A0x1234567890abcdef!2sDr.%20Eliseo%20Canton%201870%2C%20X5008%20C%C3%B3rdoba!5e0!3m2!1ses!2sar!4v1234567890123!5m2!1ses!2sar"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/oechslesa/?locale=es_LA",
+    "instagram": "https://www.instagram.com/oechslesa/?hl=es",
+    "linkedin": "https://www.linkedin.com/company/106909074/admin/dashboard/"
+  },
+  "seo": {
+    "title": "Más de 65 Años Distribuyendo - Oechsle S.A.",
+    "titleEn": "More than 65 Years Distributing - Oechsle S.A.",
+    "description": "Soluciones confiables en autopartes, motopartes y ferretería.",
+    "descriptionEn": "Reliable solutions in auto parts, motorcycle parts, and hardware.",
+    "keywords": "autopartes, motopartes, ferretería, distribución industrial, Oechsle",
+    "keywordsEn": "auto parts, motorcycle parts, hardware, industrial distribution, Oechsle"
+  },
+  "hero": {
+    "backgroundImage": "/oechsle-facility.jpg",
+    "experienceYears": "65+"
+  },
+  "businessUnits": {
+    "autopartes": {
+      "route": "/autopartes"
+    },
+    "motopartes": {
+      "route": "/motopartes"
+    },
+    "ferreteria": {
+      "route": "/ferreteria"
+    }
+  },
+  "brands": {
+    "external": [
+      { "name": "Castrol", "logo": "/CastrolNew.png", "category": "lubricantes" },
+      { "name": "Fram", "logo": "/Fram.png", "category": "filtros" },
+      { "name": "Nakata", "logo": "/Nakata.png", "category": "electricos" },
+      { "name": "Molykote", "logo": "/Molykote.png", "category": "lubricantes" },
+      { "name": "Autopolish", "logo": "/Autopolish.png", "category": "lubricantes" },
+      { "name": "DPagio", "logo": "/DPagio.png", "category": "electricos" },
+      { "name": "Continental", "logo": "/Continental.png", "category": "electricos" },
+      { "name": "GoodYear", "logo": "/GoodYear.png", "category": "electricos" },
+      { "name": "Sata", "logo": "/Sata.png", "category": "ferreteria" },
+      { "name": "Silikote", "logo": "/Silikote.png", "category": "lubricantes" },
+      { "name": "Ezeta", "logo": "/Ezeta.png", "category": "ferreteria" },
+      { "name": "Ancora", "logo": "/Ancora.png", "category": "filtros" }
+    ],
+    "own": [
+      { "name": "Carwo", "logo": "/Carwo.png" },
+      { "name": "Timox", "logo": "/Timox.png" }
+    ]
+  },
+  "products": {
+    "featured": [
+      {
+        "brand": "Castrol",
+        "name": "GTX High Mileage 20W-50",
+        "category": "lubricants",
+        "image": "/placeholder.svg?height=250&width=300&text=Castrol+GTX",
+        "price": "$15,500",
+        "isNew": true,
+        "route": "/productos/castrol-gtx-high-mileage",
+        "description": "Aceite de motor especialmente formulado para vehículos con más de 120,000 km. Protección superior contra fugas y reduce el consumo de aceite.",
+        "descriptionEn": "Motor oil specially formulated for vehicles with more than 120,000 km. Superior protection against leaks and reduces oil consumption."
+      },
+      {
+        "brand": "Fram",
+        "name": "Extra Guard PH3593A",
+        "category": "filters",
+        "image": "/placeholder.svg?height=250&width=300&text=Fram+Filter",
+        "price": "$8,200",
+        "isNew": true,
+        "route": "/productos/fram-extra-guard",
+        "description": "Filtro de aceite con tecnología avanzada de filtración. Retiene el 95% de las partículas dañinas para una protección óptima del motor.",
+        "descriptionEn": "Oil filter with advanced filtration technology. Retains 95% of harmful particles for optimal engine protection."
+      },
+      {
+        "brand": "NGK",
+        "name": "Laser Platinum PZFR6F",
+        "category": "sparkPlugs",
+        "image": "/placeholder.svg?height=250&width=300&text=NGK+Spark",
+        "price": "$12,800",
+        "isNew": false,
+        "route": "/productos/ngk-laser-platinum",
+        "description": "Bujías de platino con tecnología láser para un encendido más eficiente y mayor durabilidad. Ideal para motores modernos.",
+        "descriptionEn": "Platinum spark plugs with laser technology for more efficient ignition and greater durability. Ideal for modern engines."
+      }
+    ]
+  },
+  "about": {
+    "history": {
+      "images": [
+        { "src": "/Historia-12.jpg", "alt": "Historia de Oechsle - Imagen 2" },
+        { "src": "/Historia-1.jpg", "alt": "Historia de Oechsle - Imagen 1" },
+        { "src": "/Mapa.png", "alt": "Mapa" },
+        { "src": "/Foto-festejo.jpeg", "alt": "Foto festejo" }
+      ]
+    }
+  }
+}

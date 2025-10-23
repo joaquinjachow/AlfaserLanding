@@ -1,0 +1,202 @@
+{
+  "brand": {
+    "description": "Soluciones confiables en autopartes, motopartes y ferretería."
+  },
+  "hero": {
+    "title": "Soluciones confiables en autopartes, motopartes y ferretería.",
+    "experienceText": "años de experiencia distribuyendo a todo el país"
+  },
+  "businessUnits": {
+    "autopartes": {
+      "title": "Autopartes",
+      "description": "Repuestos para vehículos: filtros, aceites, baterías, frenos y sistemas de suspensión de las mejores marcas internacionales."
+    },
+    "motopartes": {
+      "title": "Motopartes",
+      "description": "Repuestos especializados para motocicletas y vehículos de dos ruedas, desde componentes de motor hasta accesorios y sistemas de seguridad."
+    },
+    "ferreteria": {
+      "title": "Ferretería",
+      "description": "Herramientas, equipos y suministros para construcción, mantenimiento industrial y proyectos profesionales de todas las escalas."
+    }
+  },
+  "about": {
+    "historyTitle": "Nuestra Historia",
+    "history": {
+      "title": "Nuestra Historia",
+      "paragraphs": [
+        "En 1959, Carlos Walter Oechsle convirtió su pasión por las motos en un sueño hecho realidad: abrir un pequeño local de repuestos en Córdoba. En sus primeros años, él mismo entregaba los productos en bicicleta, cultivando una cercanía y un trato personal que marcaron el ADN de la empresa.",
+        "Con esfuerzo, dedicación y una atención que siempre puso al cliente en el centro, Oechsle fue creciendo y sumando marcas de prestigio internacional como FRAM, Castrol y Molykote. Hoy contamos con un catálogo de más de 16.000 ítems, una infraestructura de más de 4.000 m² y llegamos a más de 2.500 clientes en todo el país.",
+        "Nuestro equipo de 85 colaboradores mantiene vivo el espíritu de nuestro fundador: confianza, cercanía y vocación de servicio. Actualmente, la segunda y tercera generación de la familia Oechsle trabajan en la empresa, asegurando la continuidad de sus valores y visión.",
+        "Oechsle forma parte del Grupo OSAC junto a Sarico, Alfaser y Codeflex, continuando la tradición familiar con la misma pasión que en sus inicios y mirando siempre hacia el futuro."
+      ]
+    },
+    "pillars": {
+      "title": "Nuestros Pilares Institucionales",
+      "mission": {
+        "title": "Misión",
+        "text": "Ser el socio más confiable para la distribución de productos industriales, entregando valor excepcional a través de calidad, experiencia y servicio."
+      },
+      "vision": {
+        "title": "Visión",
+        "text": "Liderar la transformación de la distribución industrial en América Latina, estableciendo nuevos estándares de calidad, innovación y satisfacción del cliente."
+      },
+      "values": {
+        "title": "Valores",
+        "list": "Integridad, Excelencia, Innovación, Enfoque al Cliente"
+      }
+    }
+  },
+  "nav": {
+    "about": "Nosotros",
+    "business": "Unidades de Negocio",
+    "brands": "Marcas",
+    "clients": "Clientes"
+  },
+  "buttons": {
+    "contact": "Contacto",
+    "learnMore": "Conocer más",
+    "viewAllBrands": "Ver todas las marcas",
+    "viewAllProducts": "Ver todos los productos",
+    "appClients": "App Clientes",
+    "chatWithUs": "Chatear con nosotros",
+    "sendEmail": "Enviar email",
+    "sendMessage": "Enviar mensaje",
+    "viewDetails": "Ver detalles",
+    "clickToSendEmail": "Haz clic para enviar un email",
+    "whereToFindUs": "Dónde encontrarnos"
+  },
+  "home": {
+    "brandsTitle": "Nuestras Marcas Destacadas",
+    "brandsSubtitle": "Trabajamos con las mejores marcas internacionales para ofrecerte productos de máxima calidad",
+    "latestTitle": "Últimos Lanzamientos",
+    "latestSubtitle": "Descubre los productos más recientes que hemos incorporado a nuestro catálogo",
+    "newBadge": "NUEVO",
+    "viewDetails": "Ver detalles",
+    "categories": {
+      "lubricants": "Lubricantes",
+      "filters": "Filtros",
+      "sparkPlugs": "Bujías",
+      "refrigeracion": "Refrigeración",
+      "herramientas": "Herramientas"
+    }
+  },
+  "brands": {
+    "title": "Nuestras Marcas",
+    "subtitle": "Trabajamos con las mejores marcas internacionales y desarrollamos nuestras propias líneas de productos",
+    "filters": {
+      "all": "Todas",
+      "hardware": "Ferretería",
+      "automotive": "Automotor",
+      "own": "Marcas Propias"
+    },
+    "ownBrandsTitle": "Nuestras Marcas Propias",
+    "ownBrandsDescription": "Líneas de productos desarrolladas especialmente para nuestros clientes",
+    "distributedTitle": "Marcas que Distribuimos",
+    "distributedDescription": "Representamos a las mejores marcas internacionales en el mercado",
+    "own": {
+      "carwo": "Línea completa de autopartes y lubricantes",
+      "timox": "Productos especializados para ferretería"
+    }
+  },
+  "business": {
+    "title": "Todo lo que tu negocio necesita...",
+    "subtitle": "Todo lo que necesitás, en un solo proveedor. Dividimos nuestra oferta en tres líneas de productos especializadas para facilitarte la búsqueda y optimizar tu compra. Trabajamos con marcas líderes y propias, garantizando calidad, disponibilidad y buenos márgenes para tu negocio.",
+    "expertsTitle": "Expertos en distribución desde hace más de seis décadas",
+    "expertsDescription": "Cada una de nuestras unidades de negocio cuenta con especialistas dedicados que entienden las necesidades específicas de su sector. Ofrecemos no solo productos de calidad, sino también asesoramiento técnico y soporte post-venta.",
+    "stats": {
+      "experience": "Años de experiencia",
+      "brands": "Marcas distribuidas",
+      "countries": "Países de cobertura",
+      "experienceValue": "30+",
+      "brandsValue": "500+",
+      "countriesValue": "15"
+    },
+    "viewProducts": "Ver Productos",
+    "autopartes": {
+      "features": {
+        "filters": "Filtros de aceite, aire y combustible",
+        "lubricants": "Aceites y lubricantes de alta calidad",
+        "batteries": "Baterías para todo tipo de vehículos",
+        "brakes": "Sistemas de frenos completos",
+        "suspension": "Componentes de suspensión"
+      }
+    },
+    "motopartes": {
+      "features": {
+        "engine": "Componentes de motor",
+        "electrical": "Sistemas eléctricos",
+        "safety": "Equipos de seguridad",
+        "accessories": "Accesorios y repuestos"
+      }
+    },
+    "ferreteria": {
+      "features": {
+        "tools": "Herramientas profesionales",
+        "equipment": "Equipos industriales",
+        "supplies": "Suministros de construcción",
+        "maintenance": "Productos de mantenimiento"
+      }
+    }
+  },
+  "products": {
+    "autopartes": {
+      "title": "Autopartes",
+      "subtitle": "Encuentra los mejores repuestos y componentes para tu vehículo"
+    },
+    "motopartes": {
+      "title": "Motopartes",
+      "subtitle": "Repuestos y accesorios especializados para motocicletas"
+    },
+    "ferreteria": {
+      "title": "Ferretería Industrial",
+      "subtitle": "Herramientas y equipos profesionales para la industria y construcción"
+    },
+    "searchPlaceholder": "Buscar productos...",
+    "allBrands": "Todas las marcas",
+    "allCategories": "Todas las categorías",
+    "nameAZ": "Nombre A-Z",
+    "showing": "Mostrando",
+    "of": "de",
+    "productsText": "productos",
+    "inStock": "En Stock",
+    "outOfStock": "Agotado",
+    "newBadge": "NUEVO",
+    "offerBadge": "OFERTA"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Estamos aquí para ayudarte. Contáctanos de la forma que prefieras",
+    "whatsapp": "WhatsApp",
+    "phone": "Teléfono",
+    "email": "Email",
+    "formTitle": "Envíanos un mensaje",
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre completo",
+    "company": "Empresa",
+    "companyPlaceholder": "Nombre de tu empresa",
+    "emailField": "Email",
+    "emailPlaceholder": "tu@email.com",
+    "phoneField": "Teléfono",
+    "phonePlaceholder": "Tu número de teléfono",
+    "subject": "Asunto",
+    "subjectPlaceholder": "¿En qué podemos ayudarte?",
+    "message": "Mensaje",
+    "messagePlaceholder": "Cuéntanos más detalles sobre tu consulta...",
+    "city": "Ciudad",
+    "cityPlaceholder": "Ciudad *",
+    "province": "Provincia",
+    "provincePlaceholder": "Selecciona una provincia"
+  },
+  "footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "about": "Nosotros",
+    "businessUnits": "Unidades de Negocio",
+    "brands": "Marcas",
+    "clients": "Clientes",
+    "contact": "Contacto",
+    "rightsReserved": "Todos los derechos reservados",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  }
+}
