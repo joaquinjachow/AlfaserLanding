@@ -80,7 +80,7 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-      <section className="py-16 md:py-24 bg-gray-100">
+      <section className="py-16 md:py-24" style={{ backgroundColor: config.brand.colors.accent }}>
         <div className="container">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold tracking-tight mb-4" style={{ color: config.brand.colors.primary }}>{t("home.brandsTitle")}</h2>

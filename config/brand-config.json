@@ -1,18 +1,18 @@
 {
   "brand": {
-    "name": "Oechsle S.A.",
-    "shortName": "OECHSLE",
+    "name": "Alfaser S.A.",
+    "shortName": "ALFASER",
     "logo": "/oechsle.svg",
     "favicon": "/favicon.ico",
     "colors": {
-      "primary": "#0419a2",
+      "primary": "#2563EB",
       "secondary": "#ffffff",
-      "accent": "#f3f4f6",
+      "accent": "#E5E7EB",
       "text": "#1f2937",
       "textLight": "#6b7280",
       "background": "#ffffff",
-      "backgroundLight": "#f9fafb",
-      "border": "#e5e7eb",
+      "backgroundLight": "#F9FAFB",
+      "border": "#E5E7EB",
       "success": "#10b981",
       "warning": "#f59e0b",
       "error": "#ef4444"
@@ -27,12 +27,12 @@
   },
   "social": {
     "facebook": "https://www.facebook.com/oechslesa/?locale=es_LA",
-    "instagram": "https://www.instagram.com/oechslesa/?hl=es",
-    "linkedin": "https://www.linkedin.com/company/106909074/admin/dashboard/"
+    "instagram": "https://www.instagram.com/alfasersa/?hl=es",
+    "linkedin": "https://www.linkedin.com/company/alfaser-s-a/"
   },
   "seo": {
-    "title": "Más de 65 Años Distribuyendo - Oechsle S.A.",
-    "titleEn": "More than 65 Years Distributing - Oechsle S.A.",
+    "title": "Más de 10 Años Distribuyendo - Oechsle S.A.",
+    "titleEn": "More than 10 Years Distributing - Oechsle S.A.",
     "description": "Soluciones confiables en autopartes, motopartes y ferretería.",
     "descriptionEn": "Reliable solutions in auto parts, motorcycle parts, and hardware.",
     "keywords": "autopartes, motopartes, ferretería, distribución industrial, Oechsle",
@@ -40,7 +40,7 @@
   },
   "hero": {
     "backgroundImage": "/oechsle-facility.jpg",
-    "experienceYears": "65+"
+    "experienceYears": "10+"
   },
   "businessUnits": {
     "autopartes": {
@@ -51,6 +51,9 @@
     },
     "ferreteria": {
       "route": "/ferreteria"
+    },
+    "servicios": {
+      "route": "/servicios"
     }
   },
   "brands": {

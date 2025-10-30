@@ -1,6 +1,6 @@
 "use client"
 import Link from "next/link"
-import { Facebook, Twitter, Linkedin, Instagram, MapPin, Phone, Mail } from "lucide-react"
+import { Linkedin, Instagram, MapPin, Phone, Mail } from "lucide-react"
 import { useLanguage } from "@/contexts/LanguageContext"
 import { useBrandConfig } from "@/hooks/useBrandConfig"
 
@@ -19,15 +19,6 @@ export default function Footer() {
               {t("brand.description")}
             </p>
             <div className="flex space-x-4">
-              <a 
-                href={config.social.facebook} 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="text-gray-400 hover:text-white transition-colors"
-              >
-                <Facebook className="h-5 w-5" />
-                <span className="sr-only">Facebook</span>
-              </a>
               <a 
                 href={config.social.instagram} 
                 target="_blank" 
@@ -67,7 +58,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <a href="https://oechsle.osapp.com.ar/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors text-sm">
+                <a href="https://www.alfaser.com.ar/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors text-sm">
                   {t("footer.clients")}
                 </a>
               </li>

@@ -18,6 +18,10 @@
     "ferreteria": {
       "title": "Ferretería",
       "description": "Herramientas, equipos y suministros para construcción, mantenimiento industrial y proyectos profesionales de todas las escalas."
+    },
+    "servicios": {
+      "title": "Servicios",
+      "description": "Asesoramiento técnico, desarrollo de soluciones personalizadas y soporte integral para optimizar las operaciones de tu negocio."
     }
   },
   "about": {
@@ -108,7 +112,7 @@
       "experience": "Años de experiencia",
       "brands": "Marcas distribuidas",
       "countries": "Países de cobertura",
-      "experienceValue": "30+",
+      "experienceValue": "10+",
       "brandsValue": "500+",
       "countriesValue": "15"
     },
@@ -136,6 +140,14 @@
         "equipment": "Equipos industriales",
         "supplies": "Suministros de construcción",
         "maintenance": "Productos de mantenimiento"
+      }
+    },
+    "servicios": {
+      "features": {
+        "consulting": "Asesoramiento técnico especializado",
+        "customization": "Soluciones personalizadas",
+        "support": "Soporte post-venta integral",
+        "optimization": "Optimización de operaciones"
       }
     }
   },

@@ -10,7 +10,7 @@ export default function NosotrosPage() {
   const config = useBrandConfig()
   return (
     <div className="flex min-h-screen flex-col">
-      <section className="py-16 md:py-24 bg-gray-50">
+      <section className="py-16 md:py-24" style={{ backgroundColor: config.brand.colors.backgroundLight }}>
         <div className="container">
           <div className="grid md:grid-cols-1 gap-12 items-center mx-auto">
             <div className="bg-white rounded-2xl shadow-lg p-8 md:p-12 flex flex-col justify-center">

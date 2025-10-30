@@ -1,5 +1,4 @@
 "use client"
-
 import { createContext, useContext, useState, ReactNode } from "react"
 import translationsEs from "@/config/translations-es.json"
 import translationsEn from "@/config/translations-en.json"

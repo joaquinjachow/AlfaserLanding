@@ -22,7 +22,7 @@ export default function UnidadesDeNegocioPage() {
       </section>
       <section className="py-16 md:py-24 bg-white">
         <div className="container">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="border border-gray-200 rounded-xl p-8 hover:shadow-lg transition-shadow">
               <div className="relative w-full h-48 mb-8 rounded-lg overflow-hidden">
                 <Image
@@ -78,11 +78,11 @@ export default function UnidadesDeNegocioPage() {
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
-                  <span className="text-sm text-gray-600">{t("business.motopartes.features.transmission")}</span>
+                  <span className="text-sm text-gray-600">{t("business.motopartes.features.electrical")}</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
-                  <span className="text-sm text-gray-600">{t("business.motopartes.features.brakes")}</span>
+                  <span className="text-sm text-gray-600">{t("business.motopartes.features.safety")}</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
@@ -113,7 +113,7 @@ export default function UnidadesDeNegocioPage() {
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
-                  <span className="text-sm text-gray-600">{t("business.ferreteria.features.electric")}</span>
+                  <span className="text-sm text-gray-600">{t("business.ferreteria.features.equipment")}</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
@@ -121,17 +121,52 @@ export default function UnidadesDeNegocioPage() {
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
-                  <span className="text-sm text-gray-600">{t("business.ferreteria.features.safety")}</span>
+                  <span className="text-sm text-gray-600">{t("business.ferreteria.features.maintenance")}</span>
                 </div>
               </div>
               <Button asChild className="w-full">
                 <Link href={config.businessUnits.ferreteria.route}>{t("business.viewProducts")}</Link>
               </Button>
             </div>
+            <div className="border border-gray-200 rounded-xl p-8 hover:shadow-lg transition-shadow">
+              <div className="relative w-full h-48 mb-8 rounded-lg overflow-hidden">
+                <Image
+                  src="/ferreteria 2.jpeg"
+                  alt="Servicios"
+                  fill
+                  className="object-cover"
+                />
+              </div>
+              <h3 className="text-2xl font-bold mb-4 text-center">{t("businessUnits.servicios.title")}</h3>
+              <p className="text-gray-600 mb-6 text-center">
+                {t("businessUnits.servicios.description")}
+              </p>
+              <div className="space-y-3 mb-8">
+                <div className="flex items-center gap-2">
+                  <div className="w-2 h-2 bg-primary rounded-full"></div>
+                  <span className="text-sm text-gray-600">{t("business.servicios.features.consulting")}</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <div className="w-2 h-2 bg-primary rounded-full"></div>
+                  <span className="text-sm text-gray-600">{t("business.servicios.features.customization")}</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <div className="w-2 h-2 bg-primary rounded-full"></div>
+                  <span className="text-sm text-gray-600">{t("business.servicios.features.support")}</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <div className="w-2 h-2 bg-primary rounded-full"></div>
+                  <span className="text-sm text-gray-600">{t("business.servicios.features.optimization")}</span>
+                </div>
+              </div>
+              <Button asChild className="w-full">
+                <Link href={config.businessUnits.servicios.route}>{t("business.viewProducts")}</Link>
+              </Button>
+            </div>
           </div>
         </div>
       </section>
-      <section className="py-16 md:py-24 bg-gray-50">
+      <section className="py-16 md:py-24" style={{ backgroundColor: config.brand.colors.backgroundLight }}>
         <div className="container">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl font-bold tracking-tight mb-6 text-primary">

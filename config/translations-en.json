@@ -18,6 +18,10 @@
     "ferreteria": {
       "title": "Hardware",
       "description": "Tools, equipment and supplies for construction, industrial maintenance and professional projects of all scales."
+    },
+    "servicios": {
+      "title": "Services",
+      "description": "Technical consulting, development of customized solutions and comprehensive support to optimize your business operations."
     }
   },
   "about": {
@@ -108,7 +112,7 @@
       "experience": "Years of experience",
       "brands": "Brands distributed",
       "countries": "Countries coverage",
-      "experienceValue": "30+",
+      "experienceValue": "10+",
       "brandsValue": "500+",
       "countriesValue": "15"
     },
@@ -136,6 +140,14 @@
         "equipment": "Industrial equipment",
         "supplies": "Construction supplies",
         "maintenance": "Maintenance products"
+      }
+    },
+    "servicios": {
+      "features": {
+        "consulting": "Specialized technical consulting",
+        "customization": "Customized solutions",
+        "support": "Comprehensive post-sale support",
+        "optimization": "Operations optimization"
       }
     }
   },

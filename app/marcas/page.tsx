@@ -45,7 +45,7 @@ export default function MarcasPage() {
           </div>
         </div>
       </section>
-      <section className="py-8 bg-gray-50 border-b border-gray-200">
+      <section className="py-8 border-b" style={{ backgroundColor: config.brand.colors.accent, borderColor: config.brand.colors.border }}>
         <div className="container">
           <div className="flex flex-wrap justify-center gap-4">
             {filtros.map((filtro) => (
@@ -71,7 +71,7 @@ export default function MarcasPage() {
         </div>
       </section>
       {mostrarMarcasPropias && (
-        <section className="py-16 md:py-24 bg-gray-200">
+        <section className="py-16 md:py-24" style={{ backgroundColor: config.brand.colors.accent }}>
           <div className="container">
             <h2 className="text-3xl font-bold tracking-tight mb-6 text-primary text-center">
               {t("brands.ownBrandsTitle")}

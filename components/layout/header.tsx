@@ -16,7 +16,7 @@ export default function Header() {
     { href: "/nosotros", label: t("nav.about") },
     { href: "/unidades-de-negocio", label: t("nav.business") },
     { href: "/marcas", label: t("nav.brands") },
-    { href: "https://oechsle.osapp.com.ar/", label: t("nav.clients"), external: true },
+    { href: "https://www.alfaser.com.ar/", label: t("nav.clients"), external: true },
   ]
 
   return (
@@ -83,13 +83,24 @@ export default function Header() {
             </DropdownMenu>
             <Button
               asChild
-              className="hidden lg:inline-flex items-center gap-2 bg-white border-2 font-semibold px-6 py-2.5 rounded-lg transition-all duration-200 hover:shadow-md"
+              className="hidden lg:inline-flex items-center gap-2 border-2 font-semibold px-6 py-2.5 rounded-lg transition-all duration-200 hover:shadow-md"
               style={{ 
                 borderColor: config.brand.colors.primary,
-                color: config.brand.colors.primary
+                color: config.brand.colors.primary,
+                backgroundColor: 'white'
+              }}
+              onMouseEnter={(e) => {
+                const target = e.currentTarget as HTMLButtonElement;
+                target.style.backgroundColor = config.brand.colors.accent;
+                target.style.color = config.brand.colors.primary;
+              }}
+              onMouseLeave={(e) => {
+                const target = e.currentTarget as HTMLButtonElement;
+                target.style.backgroundColor = 'white';
+                target.style.color = config.brand.colors.primary;
               }}
             >
-              <a href="https://oechsle.osapp.com.ar/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.alfaser.com.ar/" target="_blank" rel="noopener noreferrer">
                 <span className="w-2 h-2 rounded-full animate-pulse" style={{ backgroundColor: config.brand.colors.primary }}></span>
                 {t("buttons.appClients")}
               </a>
@@ -149,13 +160,24 @@ export default function Header() {
                   <div className="flex flex-col gap-3 pt-6 border-t border-gray-200">
                     <Button
                       asChild
-                      className="w-full bg-white border-2 font-semibold py-3 rounded-lg transition-all duration-200"
+                      className="w-full border-2 font-semibold py-3 rounded-lg transition-all duration-200"
                       style={{ 
                         borderColor: config.brand.colors.primary,
-                        color: config.brand.colors.primary
+                        color: config.brand.colors.primary,
+                        backgroundColor: 'white'
+                      }}
+                      onMouseEnter={(e) => {
+                        const target = e.currentTarget as HTMLButtonElement;
+                        target.style.backgroundColor = config.brand.colors.accent;
+                        target.style.color = config.brand.colors.primary;
+                      }}
+                      onMouseLeave={(e) => {
+                        const target = e.currentTarget as HTMLButtonElement;
+                        target.style.backgroundColor = 'white';
+                        target.style.color = config.brand.colors.primary;
                       }}
                     >
-                      <a href="https://oechsle.osapp.com.ar/" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2">
+                      <a href="https://www.alfaser.com.ar/" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2">
                         <span className="w-2 h-2 rounded-full animate-pulse" style={{ backgroundColor: config.brand.colors.primary }}></span>
                         {t("buttons.appClients")}
                       </a>
